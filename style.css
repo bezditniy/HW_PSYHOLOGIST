@@ -1,0 +1,162 @@
+
+header{
+    background-image: url(Image/Прямоугольник\ 1@1X.png);
+    height: 235px;
+}
+
+body{
+    
+    width: 750px;
+    margin: 0px auto;    
+}
+
+.container{
+    width: 100%;
+    max-width: 1024px;
+    padding: 0 15px;
+    margin: 0 15px;
+}
+
+.Text{
+    display: inline-block;
+    color:  white;
+    width: 134px;
+    height: 131px;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    vertical-align: baseline;
+    padding-left: 65px;
+}
+
+.logo{
+    padding-left: 30px;
+    padding-top: 47px;
+    padding-bottom: 47px;
+    display: inline-block;
+} 
+
+.palochki{
+    display: block;
+    padding-bottom: 22px;
+    padding-left: 195px;     
+}
+
+.lines{
+    display: inline-block;
+}
+
+.img-office{
+    background-image: url(Image/0325115cfca2f08bd19529e1d4a4396a@1X.png);
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+.shadow{
+    width: 738px;
+    height: 440px;
+    padding-bottom: 20px;
+    padding-left: 12px;
+}
+.element_button{
+    position: absolute;
+    bottom: 44px;
+    right: 204px;
+}
+.button{
+    background-color: #CB9223;
+    width: 342px;
+    height: 75px;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text_button{
+    text-decoration: none;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img-doc{
+    display: inline-block;
+    border-radius: 50%;
+    margin-top: 70px;
+    margin-left: 44px;
+}
+.oval{
+    border-radius: 50%;
+}
+.pro-doctora{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 132px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.name-doctor{
+    font-size: 2em;
+    margin-left: 70px;
+}
+.psyhoterapevt{
+    font-size: 1.5em;
+    width: 250px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.description{
+    display: inline-block;
+    margin-top: 60px;
+    font-size: 1.5em;
+    margin-left: 44px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.headline-reasons{
+    font-size: 2em;
+    margin-top: 60px;
+    margin-left: 44px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div.reasons{
+    margin-top: 60px;
+    font-size: 1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.reasons{
+    list-style: none;
+}
+div.element_button2{
+    margin-top: 50px;
+    margin-left: 204px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+footer{
+    background-color: #888888;
+    color: white;
+    margin-top: 50px;
+    height: 153px;
+}
+.logo_2{
+    padding-left: 44px;
+    padding-top: 29px;
+    padding-bottom: 28px;
+    display: inline-block;
+}
+div.address{
+    display: inline-block;
+    padding-left: 190px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.num_email{
+    display: inline-block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.number{
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+.email{
+    padding-left: 44px;
+}
+a{
+    text-decoration: none;
+    color: white;  
+}
