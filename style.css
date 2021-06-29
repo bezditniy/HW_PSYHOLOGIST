@@ -59,11 +59,13 @@ body{
     padding-left: 12px;
 }
 .element_button{
+    display: inline-block;
     position: absolute;
     bottom: 44px;
     right: 204px;
 }
 .button{
+    display: inline-block;
     background-color: #CB9223;
     width: 342px;
     height: 75px;
